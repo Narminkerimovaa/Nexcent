@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+
+:root {
+    --primary-black: #18191f;
+    --primary-green: #4caf4f;
+    --primary-grey: #4d4d4d;
+    --bground-black: #263238;
+    --bground-grey: #f5f7fa;
+}
+
+ul li {
+    list-style-type: none;
+}
+
+button {
+    border: none;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
