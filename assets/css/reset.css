@@ -13,6 +13,12 @@
     --primary-grey: #4d4d4d;
     --bground-black: #263238;
     --bground-grey: #f5f7fa;
+    --font-text:"Roboto", sans-serif;
+    --text-grey:#717171;
+}
+
+body{
+    font-family: "Inter", sans-serif;
 }
 
 ul li {
